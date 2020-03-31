@@ -1,0 +1,8 @@
+token_get_url = "http://token.aiesec.org.br/get_token.php?token=c0aa46e01d77fb212fe0195636fb515f8e43b530087399ec49f"
+expa_api_url = "https://gis-api.aiesec.org/graphql?access_token={}"
+expa_rest_api_url = "https://gis-api.aiesec.org/v2/"
+expa_rest_api_apply_url = "https://gis-api.aiesec.org/v2/applications.json?access_token={}"
+yop_login_url = "https://auth.aiesec.org/users/sign_in"
+yop_login_post_url = "https://auth.aiesec.org/users/sign_in"
+yop_url = "https://aiesec.org"
+api_key = ""
